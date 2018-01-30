@@ -1,23 +1,40 @@
+Estos son los commits :)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 commit f8654ceadcf54f4dada311a0105937c313b873f1
 Author: usuario <galvez_0990@hotmail.com>
 Date:   Tue Jan 30 10:21:53 2018 -0600
 
-    Se agregaron mas lineas a test :) :)
+    
+Se agregaron mas lineas a test :) :)
+
+
+
 
 commit dd2ad2405aeecbb66245c637dd983439df5567b5
 Author: usuario <galvez_0990@hotmail.com>
 Date:   Tue Jan 30 10:15:48 2018 -0600
 
-    Se agregaron mas lineas de texto a Test :)
+    
+Se agregaron mas lineas de texto a Test :)
+
+
+
 
 commit 199924ae6e1996b1c87dbb2ea0f1bbfb43ac27fb
 Author: usuario <galvez_0990@hotmail.com>
 Date:   Tue Jan 30 10:13:32 2018 -0600
 
-    Se agregaron muchas lineas de texto
+    
+Se agregaron muchas lineas de texto
+
+
+
 
 commit 99b2d364f833f4d06419614853ab9749dcd55e77
 Author: usuario <galvez_0990@hotmail.com>
 Date:   Tue Jan 30 09:15:30 2018 -0600
 
-    iniciamos
+    
+iniciamos
