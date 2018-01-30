@@ -1,1 +1,18 @@
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+
+
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+
+
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
+C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
 C:\Program Files\PostgreSQL\9.6\bin>pg_dump.exe --file "c:/respaldo_081120173.backup" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=c --blobs "sigemun_acapulco"
